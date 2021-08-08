@@ -1,0 +1,2 @@
+cd snapshots
+tensorboard --logdir ./
